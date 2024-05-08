@@ -1,0 +1,24 @@
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\bin\Debug\net6.0-windows\WPF Expression Calculator.exe
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\bin\Debug\net6.0-windows\WPF Expression Calculator.deps.json
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\bin\Debug\net6.0-windows\WPF Expression Calculator.runtimeconfig.json
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\bin\Debug\net6.0-windows\WPF Expression Calculator.dll
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\bin\Debug\net6.0-windows\WPF Expression Calculator.pdb
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator_MarkupCompile.cache
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator_MarkupCompile.lref
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.g.resources
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.dll
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\refint\WPF Expression Calculator.dll
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.pdb
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\WPF Expression Calculator.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\ref\WPF Expression Calculator.dll
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\Views\CalculatorView.g.cs
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\source\repos\WPF Expression Calculator\WPF Expression Calculator\obj\Debug\net6.0-windows\Views\CalculatorView.baml

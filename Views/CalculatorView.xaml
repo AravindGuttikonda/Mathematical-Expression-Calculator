@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="WPF_Expression_Calculator.Views.CalculatorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Expression_Calculator.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="Input" Height="50" Width="400" ToolTip ="Enter the Expression" Margin="10" Text="{Binding Model.TextValue, Mode=TwoWay}"/>
+            <Button x:Name="MyButton" Content="Click to Evaluate Expression" Margin="10" Width="200" Command="{Binding EvaluateCommand}" />
+            <Button x:Name="ClearBtn" Content="Clear" Margin="1" Width="100" Command="{Binding ClearCommand}"/>
+        </StackPanel>    
+    </Grid>
+</UserControl>
